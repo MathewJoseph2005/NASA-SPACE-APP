@@ -1,4 +1,4 @@
-# Climate Change Decision Game
+# Crisis to Hope: Protocols of Change
 
 This project is an interactive game where players make decisions that affect climate change outcomes. The aim is to understand the interconnectedness of environmental systems and the impact of our actions on the future of the planet.
 
